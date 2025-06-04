@@ -26,6 +26,19 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'Fenya2/wiki',
+      // from data-repo-id
+      repoId: 'R_kgDOO2NNAQ',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOO2NNAc4CrDEf',
+    }
+    }),
     Component.RecentNotes({ showTags: false }),
   ],
   left: [
