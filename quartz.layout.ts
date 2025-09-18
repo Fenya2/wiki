@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       categoryId: 'DIC_kwDOO2NNAc4CrDEf',
     }
     }),
-    Component.RecentNotes({ showTags: false }),
+    Component.RecentNotes({ limit: 20 }),
   ],
   left: [
     Component.PageTitle(),
