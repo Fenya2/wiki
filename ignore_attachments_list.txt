@@ -219,6 +219,12 @@ content/files/Pasted image 20250909182810.png
 content/files/Pasted image 20250912151609.png
 content/files/Pasted image 20250912151822.png
 content/files/Pasted image 20250912152002.png
+content/files/Pasted image 20250919091020.png
+content/files/Pasted image 20250919091243.png
+content/files/Pasted image 20250919100316.png
+content/files/Pasted image 20250919102417.png
+content/files/Pasted image 20250919205900.png
+
 content/files/image_2025-01-13_12-05-01.png
 content/files/limited_param_report.png
 content/files/ruStoreUniversal.png

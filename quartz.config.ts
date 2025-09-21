@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: [
+    ignorePatterns: [ // templates,home,LOG,prompts,TODO,Английский,Книги,Работа
         "private",
         "templates",
         ".obsidian",
