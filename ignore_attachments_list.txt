@@ -177,9 +177,6 @@ content/files/Pasted image 20250806171026.png
 content/files/Pasted image 20250806171539.png
 content/files/Pasted image 20250806171626.png
 content/files/Pasted image 20250806172004.png
-content/files/Pasted image 20250807123658.png
-content/files/Pasted image 20250807125346.png
-content/files/Pasted image 20250807130614.png
 content/files/Pasted image 20250807185937.png
 content/files/Pasted image 20250808102519.png
 content/files/Pasted image 20250811141939.png
@@ -251,6 +248,22 @@ content/files/Pasted image 20251003152330.png
 content/files/Pasted image 20251003152405.png
 content/files/Pasted image 20251003190746.png
 content/files/Pasted image 20251003203007.png
+content/files/Pasted image 20251006100855.png
+content/files/Pasted image 20251008091715.png
+content/files/Pasted image 20251009073845.png
+content/files/Pasted image 20251014100305.png
+content/files/Pasted image 20251015101213.png
+content/files/Pasted image 20251020125621.png
+content/files/Pasted image 20251020125630.png
+content/files/Pasted image 20251023103429.png
+content/files/Pasted image 20251023104014.png
+content/files/Pasted image 20251023104910.png
+content/files/Pasted image 20251023105043.png
+content/files/Pasted image 20251024083932.png
+content/files/Pasted image 20251024084111.png
+content/files/Pasted image 20251024124130.png
+content/files/Pasted image 20251024203912.png
+content/files/Pasted image 20251024203957.png
 
 content/files/image_2025-01-13_12-05-01.png
 content/files/limited_param_report.png
