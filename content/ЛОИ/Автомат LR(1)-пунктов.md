@@ -1,7 +1,7 @@
 ---
 tags: [лои]
 created: 2025-09-28
-modified: 2025-10-26
+modified: 2025-11-23
 ---
 
 >*Определяется по аналогии с [[Автомат LR(0)-пунктов|автоматом LR(0)-пунктов]]*
@@ -17,8 +17,10 @@ $$
 \delta(q, x) = 
 \begin{cases}
 \{[A \rightarrow \beta_1 x \bullet \beta_2, a]\} & \text{если } q = [A \rightarrow \beta_1 \bullet x \beta_2, a], x \in \Sigma \cup \Gamma, a \in \Sigma \cup \{\dashv \} \\
-\{[B \rightarrow \bullet \gamma, b] \mid B \in \Gamma\} & \text{если } q = [A \rightarrow \beta_1 \bullet B\beta_2, a] \text{ и } x = \varepsilon, a \in \Sigma \cup \{\dashv\}, b \in FIRST(\beta_2a) \\
+\{[B \rightarrow \bullet \gamma, b] \} & \text{если } q = [A \rightarrow \beta_1 \bullet B\beta_2, a] \text{ и } x = \varepsilon, B \in \Gamma, a \in \Sigma \cup \{\dashv\}, b \in FIRST(\beta_2a) \\
 \end{cases}, \beta_1, \beta_2, \gamma \in (\Sigma \cup \Gamma)^*
 $$
 
 Где $FIRST(\beta_2 a)$ - [[Множество FIRST от цепочки|множество FIRST от цепочки]] $\beta_2a$
+
+> Полагать, что $FIRST(\dashv) = \dashv$
